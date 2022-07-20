@@ -23,7 +23,7 @@
     - descripcion
     - cantidad
     - fecha ingreso
-    
+
 - relacionar las nuevas entidades en la creacion de una computadora, y contemplar la opcion de crear mas de una computadora,  agregando los atiributos de cantidad y fecha de creacion, costo(la suma de todos los componentes). 
 
 -  **Historias de usuario:**
@@ -41,4 +41,4 @@
   11. El usuario puede listar las ordenes dada una fecha.
   12. El usuario puede actaulizar una orden (actualizar los datos afectados)
   13. El usuario puede listar las ordenes creadas recientemente (1 dia)
-  # content12
+
